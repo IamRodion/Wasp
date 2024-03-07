@@ -1,0 +1,7 @@
+#.gitignore
+.vscode/
+venv/
+extra/
+#Wasp/config.py
+Wasp/__pycache__/
+Wasp/__python__/
